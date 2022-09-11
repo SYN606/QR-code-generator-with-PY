@@ -14,3 +14,12 @@ This project contains the virtual envoirment of python that is created in a linu
   source /env/bin/activate
 ```
 Now you can run `main.py` and the program will work properly.
+## Modules
+
+if you dont want to use Virtual envoirment you can partucularly download `qr code` module by using pip and you will be able to run this program
+
+
+```
+    pip install pyqrcode
+```
+    
